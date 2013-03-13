@@ -6,11 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		DEBC1E4816F028AD004B61DA /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEBC1E4716F028AD004B61DA /* main.cpp */; };
-		DEBC1E4A16F028AD004B61DA /* Ch02.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = DEBC1E4916F028AD004B61DA /* Ch02.1 */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		DEBC1E4216F028AD004B61DA /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -18,7 +13,6 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				DEBC1E4A16F028AD004B61DA /* Ch02.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -26,8 +20,6 @@
 
 /* Begin PBXFileReference section */
 		DEBC1E4416F028AD004B61DA /* Ch02 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Ch02; sourceTree = BUILT_PRODUCTS_DIR; };
-		DEBC1E4716F028AD004B61DA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		DEBC1E4916F028AD004B61DA /* Ch02.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Ch02.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +52,6 @@
 		DEBC1E4616F028AD004B61DA /* Ch02 */ = {
 			isa = PBXGroup;
 			children = (
-				DEBC1E4716F028AD004B61DA /* main.cpp */,
-				DEBC1E4916F028AD004B61DA /* Ch02.1 */,
 			);
 			path = Ch02;
 			sourceTree = "<group>";
@@ -117,7 +107,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEBC1E4816F028AD004B61DA /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -214,6 +203,7 @@
 				DEBC1E4F16F028AD004B61DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
