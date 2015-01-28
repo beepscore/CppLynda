@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Ch03/Ch03.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Ch02/Ch02.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Operator Precedence.pdf">
+   </FileRef>
+   <FileRef
+      location = "group:Chap02">
+   </FileRef>
+   <FileRef
+      location = "group:Chap03">
+   </FileRef>
+   <FileRef
+      location = "group:Chap04">
+   </FileRef>
+   <FileRef
+      location = "group:Chap05">
+   </FileRef>
+   <FileRef
+      location = "group:Chap06">
+   </FileRef>
+   <FileRef
+      location = "group:Chap07">
+   </FileRef>
+   <FileRef
+      location = "group:Chap08">
+   </FileRef>
+   <FileRef
+      location = "group:Chap09">
+   </FileRef>
+   <FileRef
+      location = "group:Chap10">
+   </FileRef>
+   <FileRef
+      location = "group:Chap11">
+   </FileRef>
+   <FileRef
+      location = "group:Chap12">
+   </FileRef>
+   <FileRef
+      location = "group:Chap13">
+   </FileRef>
+</Workspace>
